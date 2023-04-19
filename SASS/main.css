@@ -558,8 +558,9 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #EDDCCE;
+  background-color: #dfdbe7;
   margin-top: 200px;
+  border-radius: 20px;
 }
 .foot .foot__about {
   font-family: "Poppins", sans-serif;
